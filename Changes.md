@@ -1,6 +1,6 @@
-#ENH-EIoS
+# ENH-EIoS
 
-#Thay đổi ở phiên bản 1.0
+# Thay đổi ở phiên bản 1.0
 
 ----------[Những thay đổi của server]----------
 
