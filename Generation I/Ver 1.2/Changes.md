@@ -8,7 +8,7 @@
  
  ![alt text](https://cdn.discordapp.com/attachments/733638043470397560/784986792327249950/unknown.png)
  
-- Sau khi event kết thúc, **Dammnz** sẽ lựa ra người chơi có số điểm cao nhất là người chiến thắng :v
+- Sau khi event kết thúc, **Daamnz** sẽ lựa ra người chơi có số điểm cao nhất là người chiến thắng :v
 
   **1st**: _Nitro_ /
   **2nd**: _1 key Steam Far Cry® New Dawn_ /
