@@ -9,4 +9,6 @@
 - Event mới: Hiện tại server có tổng là 110 thành viên *đã trừ bot*, thì mình sẽ lấy 10 số ngẫu nhiên từ 1 đến 200. Mỗi thành viên **bắt buộc** chọn cho mình 1 con số. Vừa tìm được người may mắn và cũng vừa lọc được 1 số thành phần không tham gia :))
 - Server đã hoàn thành việc trang trí theo chủ để **Mùa đông**. Yep, **NO PADORU** :v
 - Lúc trước mình có nói về dự án bảo cao cấp, mình đã có lập 1 cái poll để quyết định và có khoảng 56 phiếu tán thành|50 phiếu không tán thành. Vậy nên mình sẽ tạm gác dự án đó qua 1 bên vài ngày rồi tạo lại cái poll lần nữa để quyết định lần cuối :>
-- Server sẽ tạm đóng hết các room bot game, mình làm vậy để mọi người có thời gian tập trung ở **#town-hall** để bàn lại những kỉ niệm năm qua và tưởng nhớ lại những biến cố của **ESP** Và nghe nói **AnkConkNkanZuiZe** sẽ chơi lớn, tặng mỗi người **1 tháng Nitro có boost** :v
+- Server sẽ tạm đóng hết các room bot game, mình làm vậy để mọi người có thời gian tập trung ở **#town-hall** để bàn lại những kỉ niệm năm qua và tưởng nhớ lại những biến cố của **ESP** Và nghe nói **AnhConkNkanZuiZe** sẽ chơi lớn, tặng mỗi người **1 tháng Nitro có boost** :v
+
+**HẾT**
