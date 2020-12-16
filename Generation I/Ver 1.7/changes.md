@@ -13,9 +13,7 @@
   - Bọn mình quyết định tuyển thêm **2** người quản lý nữa. Link nộp đơn đã thông báo trong server.
   - Đối tác tối đa của server là **1**. **ĐÃ MỞ RỘNG LÊN 2 ĐỐI TÁC**.
   - Chính thức loại bỏ bot **NQN** (a.k.a NotQuiteNitro).
-  ```javascript
-  Link server A11: discord.gg/c2UGdzv | link đã hết hạn
-  ```
+  
    
   </details>
   
