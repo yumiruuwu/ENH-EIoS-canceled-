@@ -6,3 +6,5 @@ Ban đầu mình định để dự án ở chế độ riêng tư nhưng dù sa
 Người có quyền sửa đổi dự án này bao gồm: **Mykm**, **DaamnZ**, **AnhConkNkanZuiZe**, **corn hub**, **KoNeko**
 
 *Trong đó **DaamnZ**, **AnhConkNkanZuiZe**, **corn hub**, **KoNeko** chỉ hỗ trợ sửa đổi dự án trên server nên chỉ có **Mykm** là người duy nhất sửa đổi dự án này*
+
+Cập nhật ngày 6/5/2021 9:15PM: **Dự án này đã ngừng hoạt động và từ giờ sẽ không còn thay đổi nào nữa, Cộng đồng Eternal House sẽ tiếp tục duy trì đến hết tháng 11 năm nay.**
