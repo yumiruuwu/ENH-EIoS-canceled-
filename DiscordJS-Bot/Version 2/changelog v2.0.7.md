@@ -1,7 +1,7 @@
 - Thêm 1 lệnh slash mới: **/purge**. Cách sử dụng:
 ```
 /purge user:@Thành_viên_cần_xoá_tin_nhắn number:Số_tin_nhắn_cần_xoá_[2-100]
-Lưu ý rằng 2 giá trị trên bắt buộc phải điền vào thì lệnh mới có thể chạy.
+Lưu ý rằng giá trị đầu tiên bắt buộc phải điền vào thì lệnh mới có thể chạy. Giá trị thứ hai để trống sẽ xoá hết tin nhắn trong 14 ngày trước.
 ```
 
 - Lệnh Slash **/ban** đã thêm giá trị `deletelastmessage`. Giá trị này không bắt buộc, mặc định của nó sẽ là `24h`. Các lựa chọn của giá trị bao gồm:
