@@ -1,0 +1,2 @@
+- `/purge` vẫn chưa chạy đúng theo yêu cầu.
+- `/whois` vẫn chưa thể fetch User ngoài server
