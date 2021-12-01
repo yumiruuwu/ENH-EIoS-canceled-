@@ -1,2 +1,3 @@
 - `/purge` vẫn chưa chạy đúng theo yêu cầu.
 - `/whois` vẫn chưa thể fetch User ngoài server
+- Thời gian **Ngày tham gia server** và **Tài khoản tạo lúc** chưa hiển thị chính xác. Hiện tại vẫn chưa biết nguyên nhân vì sao.
