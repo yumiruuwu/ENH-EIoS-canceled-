@@ -1,3 +1,4 @@
 - `/purge` vẫn chưa chạy đúng theo yêu cầu.
 - [Sẽ không thể giải quyết] `/whois` vẫn chưa thể fetch User ngoài server - Nguyên nhân: `member.permissions.has();`
 - [Đã giải quyết] Thời gian **Ngày tham gia server** và **Tài khoản tạo lúc** chưa hiển thị chính xác. Hiện tại vẫn chưa biết nguyên nhân vì sao. - Cách giải quyết: Trừ thẳng 5 tiếng vào thời gian. Nguyên nhân: Vị trí host của bot
+- [Đang giải quyết] Thời gian **Ngày tham gia server** và **Tài khoản tạo lúc** vẫn chưa hiển thị chính xác, tuy đã hiển thị đúng giờ nhưng lại sai buổi sáng và tối.
