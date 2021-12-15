@@ -1,0 +1,3 @@
+- Đã cập nhật 1 số module của bot lên phiên bản mới nhất.
+- Đã cập nhật engine (node và npm) lên phiên bản hiện tại.
+- Giờ đây, thời gian đã hiển thị chính xác cho lệnh `/serverinfo` và `/whois`, nhờ vào module `moment-timezone` :3
