@@ -6,7 +6,7 @@
     ```
     /timeout user:thành_viên week:số_tuần day:số_ngày hour:số_giờ minute:số_phút reason:lý_do
     
-    Trong đó, các giá trị week, day, hour, minute, reason không bắt buộc phải điền, để trống các giá trị sẽ sử dụng mặc định theo bot.
+    Trong đó, các giá trị week, day, hour, minute, reason không bắt buộc phải điền, để trống các giá trị sẽ sử dụng mặc định theo bot. Lưu ý giá trị mặc định của bot là 0, tức là bạn sẽ gặp thông báo lỗi nếu để trống các giá trị.
     ```
     
     **Remove Timeout**
