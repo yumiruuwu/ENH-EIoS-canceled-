@@ -1,5 +1,5 @@
 - [Chưa giải quyết] `/purge` vẫn chưa chạy đúng theo yêu cầu.
-- [Chưa giải quyết] Bot hiện đang có 1 số vấn đề gây crash không xác định.
+- [Tạm thời đã được giải quyết] Bot hiện đang có 1 số vấn đề gây crash không xác định.
 - [Sẽ không thể giải quyết] `/whois` vẫn chưa thể fetch User ngoài server - Nguyên nhân: `member.permissions.has();`
 - [Đã giải quyết] Thời gian **Ngày tham gia server** và **Tài khoản tạo lúc** chưa hiển thị chính xác. Hiện tại vẫn chưa biết nguyên nhân vì sao. - Cách giải quyết: Trừ thẳng 5 tiếng vào thời gian. Nguyên nhân: Vị trí host của bot
 - [Đã giải quyết] Thời gian **Ngày tham gia server** và **Tài khoản tạo lúc** vẫn chưa hiển thị chính xác, tuy đã hiển thị đúng giờ nhưng lại sai buổi sáng và tối.
