@@ -1,0 +1,6 @@
+- Đã thêm tính năng **Locale** vào 2 lệnh slash `/whois` và `/serverinfo`.
+- **Locale** ở `/serverinfo` sẽ đưa ra khu vực của server dựa vào ngôn ngữ được chọn trong **Cài Đặt Cộng Đồng**.![image](https://user-images.githubusercontent.com/64838658/149450025-c13f5105-ccb9-4006-86c0-ee4961e14935.png)
+- **Locale** ở `/whois` sẽ đưa ra ngôn ngữ mà thành viên hay dùng nhất, tính năng này dựa vào phần **Ngôn Ngữ** được chọn trong phần **Cài đặt người dùng**.![image](https://user-images.githubusercontent.com/64838658/149450393-444917ea-6d7c-40ce-831b-284514c30cf3.png)
+- Tuy nhiên, **Locale** ở `/whois` chỉ hoạt động tốt nhất đối với người dùng Discord trên PC **(Client Version)**. Các phiên bản mobile và browser sẽ hiển thị mặc định là `Tiếng Anh (Mỹ)`.
+- Đã sửa lại phần thiếu sót trong thông tin của slash `/covid`.
+- Đã loại bỏ deferReply khỏi 1 số slash giúp bot đưa ra kết quả nhanh hơn.
