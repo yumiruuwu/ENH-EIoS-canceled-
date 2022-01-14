@@ -1,7 +1,10 @@
 - [ ] `/purge` vẫn chưa chạy đúng theo yêu cầu.
-- [ ] Bot hiện đang có 1 số vấn đề gây crash không xác định.
+- [x] Bot hiện đang có 1 số vấn đề gây crash không xác định.
 - [ ] `/whois` vẫn chưa thể fetch User ngoài server - Nguyên nhân: `member.permissions.has();`
 - [x] Thời gian **Ngày tham gia server** và **Tài khoản tạo lúc** chưa hiển thị chính xác. Hiện tại vẫn chưa biết nguyên nhân vì sao. - Cách giải quyết: Trừ thẳng 5 tiếng vào thời gian. Nguyên nhân: Vị trí host của bot
 - [x] Thời gian **Ngày tham gia server** và **Tài khoản tạo lúc** vẫn chưa hiển thị chính xác, tuy đã hiển thị đúng giờ nhưng lại sai buổi sáng và tối.
 - [x] Thời gian hiển thị cho slash `serverinfo` và `whois` bị sai do vị trí host.
 - [x] Thành viên bị cho vào blacklist vẫn dùng được lệnh prefix.
+- [ ] 1 số lệnh **music** hay gặp lỗi khi cố gắng tìm kiếm dựa vào từ khoá do thành viên yêu cầu.
+- [ ] Cần thiết kế lại embed cho `/timeout`.
+- [ ] Giải quyết được tất cả các vấn đề trên.
