@@ -2,4 +2,5 @@
 - Lệnh `/ban` giỡ đã có thể cấm trước người dùng vào server. Với thay đổi này, lệnh `/ban` đã trở thành subcommand được chia thành 2: `/ban user` và `/ban user-by-id`.
 - Với các lệnh prefix, đã có lệnh set prefix rồi nhé, mặc định prefix cho server là **_**.
 - Ah yes, dựa vào các thay đổi từ lệnh SLash `/ban` thì bây giờ 2 lệnh Slash `/avatar` với `/banner` đã có thể xem được ảnh và banner từ thành viên không có trong server.
+- Prefix giờ đã có handler riêng để cho phép sắp xếp các lệnh theo mục trong lệnh prefix `help`.
 - *Còn nữa...*
