@@ -5,3 +5,4 @@
 - Prefix giờ đã có handler riêng để cho phép sắp xếp các lệnh theo mục trong lệnh prefix `help`.
 - Lệnh `/avatar` giờ đã có thể xem ảnh hồ sơ riêng của thành viên trong server. Lệnh cũng đã trở thành subcommand được thành 2: `/avatar user` và `/avatar guild`.
 - Tất cả các lệnh `/avatar` và `/banner` đã được nâng chất lượng ảnh lên kích cỡ hiện tại là 4096.
+- Khai tử slash `/music` và xoá lệnh khỏi bot (trừ server support).
