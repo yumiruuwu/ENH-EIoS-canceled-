@@ -1,0 +1,4 @@
+- Đã thêm slash mới: `calculation`. Lệnh được tạo ra nhằm mục đích giải các bài toán `1+1` :))
+- Đã sửa lại 2 slash `ban` và `unban` hoạt động hiệu quả hơn.
+- Đã xoá bớt đoạn code không cần đến trong source code bot.
+- Thêm phần chú ý trong slash `activitystart`.
