@@ -7,4 +7,5 @@
 - [x] Thành viên bị cho vào blacklist vẫn dùng được lệnh prefix.
 - [ ] 1 số lệnh **music** hay gặp lỗi khi cố gắng tìm kiếm dựa vào từ khoá do thành viên yêu cầu.
 - [ ] Cần thiết kế lại embed cho `/timeout`.
+- [ ] Lệnh `/say` yêu cầu phải chạy thử lần đầu mà không kèm theo tài liệu để lần sau có thể hoạt động bình thường.
 - [ ] Giải quyết được tất cả các vấn đề trên.
