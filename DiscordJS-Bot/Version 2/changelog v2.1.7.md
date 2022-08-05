@@ -1,1 +1,4 @@
-
+- Cập nhật phiên bản DiscordJS từ V13 lên V14.
+- Sửa lại tất cả giá trị theo yêu cầu thay đổi của phiên bản V14.
+- Lệnh slash `/say` đã có thể đính kèm theo tài liệu (không bắt buộc) để tải lên. Tuy nhiên, có 1 sự cố hiện tại chưa thể khắc phục là bạn phải chạy lệnh lần đầu mà không có kèm theo tài liệu để bot có thể xử lý và lần sau chạy lệnh có thể đính kèm theo tệp bình thường.
+- Loại bỏ phần `ngôn ngữ được dùng` khỏi lệnh slash `/whois`.
