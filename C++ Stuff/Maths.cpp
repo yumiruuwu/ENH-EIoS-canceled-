@@ -11,37 +11,37 @@ void gotoXY (int column, int line)
 	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),coord);
 }
 
-int Noi_roi(int p,int q){ //thuat toan phep noi roi PvQ
+int Noi_roi(int p,int q){
 	if(p==0&&q==0){
 		return 0;
 	}
 	return 1;
 }
-int Phu_dinh(int q){ //thuat toan phu dinh
+int Phu_dinh(int q){
 	if(q==1){
 		return 0;
 	}
 	return 1;
 }
-int Noi_lien(int p,int q){ //thuat toan phep noi lien P^Q
+int Noi_lien(int p,int q){
 	if(p==1&&q==1){
 		return 1;
 	}
 	return 0;
 }
-int Keo_theo(int p,int q){ // thuat toan phep keo theo P =>Q
+int Keo_theo(int p,int q){
 	if(p==1&&q==0)
 		return 0;
 	return 1 ;
 }
-int Keo_theo_2chieu(int p, int q){ //thuat toan phep keo theo 2 chieu P <=>Q
+int Keo_theo_2chieu(int p, int q){
 	if(p==0&&q==0)
 		return 1;
 	else if(p==1&&q==1)
 		return 1;
 	return 0;
 }
-void Viet_dong(int p,int q,int r,int bieu_thuc1,int bieu_thuc2 , int dong){ //dong la so dong can viêt
+void Viet_dong(int p,int q,int r,int bieu_thuc1,int bieu_thuc2 , int dong){
 	gotoXY(5,dong);
 	printf("%d",p);
 	gotoXY(18,dong);
@@ -55,7 +55,7 @@ void Viet_dong(int p,int q,int r,int bieu_thuc1,int bieu_thuc2 , int dong){ //do
 
 }
 
-void Viet_dong1(int p,int q,int r,int bieu_thuc2 , int dong){ //dong la so dong can viêt
+void Viet_dong1(int p,int q,int r,int bieu_thuc2 , int dong){
 	gotoXY(5,dong);
 	printf("%d",p);
 	gotoXY(18,dong);
